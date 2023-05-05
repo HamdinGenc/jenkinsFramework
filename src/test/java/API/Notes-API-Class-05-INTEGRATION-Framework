@@ -1,0 +1,35 @@
+I have Written this note on,04/20/2022(Thursday)
+-Class 05 of API
+-Automation of API, we have added dependency of our API to Maven Dependency file, where i have set it up
+the framework, and all dependency files are there.
+
+Rest Assure API:
+It is DSL(Domain specific language)
+it is java based  library that is used to automate rest API
+
+ given, when, then
+
+
+ Rest assured has been developed on the concept of the BDD concept
+ Rest assured follows the functionality of the BDD.
+
+ pre- condition-->Request preparation, request specification
+
+we use:
+
+given -prepare the request
+when  -hitting the end point (send the request)
+then - expected response
+
+
+NOTE:baseURI= baseURL
+
+Hamcrest matchers:
+it is a popular framework that helps us to create the matcher objects.
+
+
+prettyPrint:
+It is used to print the response in console
+
+
+

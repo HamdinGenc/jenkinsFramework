@@ -1,0 +1,15 @@
+I had a file tha it contained all cucumber classes and for some reason l couldn't find it,
+or meaybe i deleted accidentally, so this is the short part of class 08 and 09
+
+Class 8-9
+maven surefire plugin
+
+to clean the project from the terminal- mvn clean from cmd/terminal
+to run the project-mvn test from cmd/terminal
+
+override the tag from cmd and the command is -mvn clean verify -Dcucumber.filter.tags="@latest"
+
+mvn clean - it cleans your target folder
+mvn test- to execute our test cases
+verify- verifies your code
+package-converts the code to packages

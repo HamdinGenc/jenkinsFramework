@@ -1,0 +1,40 @@
+Class 07
+
+Recap:
+To create an employee we use:
+
+POST-
+Base url= base URI
+end point
+Headers
+body
+token
+
+then-
+
+-jsonPath()
+-To retrieve employee from DataBase
+-query parameter
+-token
+
+@Test -junit annotation we use to execute our test cases
+@FixMethodOrder(MethodSorters.NAME_ASCENDING)- we use to change the flow of the execution,
+in this annotation we assigned alphabetical order to each method,in order to prioritize the execution
+of the method we desired.
+
+To update the details of employee:
+
+PUT we need:
+body
+header
+token
+end point
+
+The status code ve need to expect is 200
+an the status code we need to expect to PATCH the data is 201
+
+
+
+
+
+

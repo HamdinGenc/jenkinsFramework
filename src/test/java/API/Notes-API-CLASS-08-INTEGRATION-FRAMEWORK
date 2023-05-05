@@ -1,0 +1,13 @@
+API Class 08
+Recap:
+WHat we did in API class  7 as it follow with the sequence.
+Writing feature files with Gherkin language.
+
+Generate token via automation
+
+Create POST request to add an employee in feature file
+
+API constants class -
+API payload constance - the body we need to create , update employee record, we can pass it from
+API payload constants class.
+
